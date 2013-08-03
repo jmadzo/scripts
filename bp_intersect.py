@@ -5,7 +5,7 @@ bed file entries are merged before and after intersection in order to avoid to c
 """
 
 from __future__ import division
-__version__ = '0.1'
+__version__ = '1.0'
 __author__ = 'jmadzo'
 
 import sys
@@ -13,7 +13,7 @@ import argparse
 import pybedtools
 
 def main():
-	'''does all the work'''
+	'''main function'''
 	###################### check arguments ############################################
 	if len(sys.argv)==1: sys.exit('\n no arguments provided, for help: --help')
 	##############################  parsing arguments  ################################
@@ -47,5 +47,3 @@ if __name__ == "__main__":
 	main()
 	try: tx.stopTime(start,startLocal)
 	except: pass
-	
-	
