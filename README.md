@@ -11,6 +11,6 @@ compare_dict.py:
 
 	merge two file with 2 colums base on keys in 1st colums
 
-compare_dict_full_entries.py::
+compare_dict_full_entries.py.::
 
 	merge two files with multiple columns base on keys in 1st column  
