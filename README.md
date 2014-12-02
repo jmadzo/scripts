@@ -18,4 +18,7 @@ compare_dict_full_entries.py
 compare_dict_base_on_key.py
 
 	merge tow files base on the key
-	- key can be set to any column with **-k** (when it's the same in both files) or **-K1** and **-K2** (when key is in different column in each file)flag
+	- key can be set to any column with -k (when it's the same in both files) 
+	                                    --                              
+	  or -K1 and -K2 flags (when key is in different column in each file)
+	     --      __
