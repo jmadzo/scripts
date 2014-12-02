@@ -13,10 +13,10 @@ compare_dict.py
 
 compare_dict_full_entries.py
 
-	merge two files with 4 columns base on keys in 1st column  
+	merge **two** files with 4 columns base on keys in 1st column  
 
 compare_dict_base_on_key.py
 
-	merge tow files base on the key
+	merge two __files__ base on the key
 	- key can be set to any column with **-k** (when it's the same in both files)
 	  or **-K1** and __-K2__ flags (when key is in different column in each file)
