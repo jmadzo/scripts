@@ -1,0 +1,7 @@
+aaa	20
+bbb	50
+ccc	100
+ddd	50
+eee	30
+ggg	15
+hhh	111
