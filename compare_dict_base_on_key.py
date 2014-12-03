@@ -53,4 +53,4 @@ with open(file_b, 'rU') as file_b:
         except Exception as err:
             raise err
             pass
-for key_a in a: print "\t".join([key_a] + a[key_a]+["-"]*b_column_num)    
+for key_a in a: print "\t".join([key_a] + a[key_a]+["-"]*b_column_num)
